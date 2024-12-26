@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Copyright (c) 2024 Yuki Kashiwada
-# This software is released under the MIT License, see LICENSE.
-
 # Set the model name
 MODEL_NAME=meta-llama/Llama-3.1-8B  # Specify the model name to be converted.
 SAVE_NAME=Llama-3.1-8B-mlx-8bit     # Choose a name for the converted model (feel free to customize).
